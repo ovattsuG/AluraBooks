@@ -21,13 +21,15 @@ O AluraBooks é uma aplicação fictícia de uma livraria online, desenvolvida c
 # Estrutura de Arquivos
 * index.html: Página principal da aplicação.
 * reset.css: Arquivo CSS de reset para normalizar estilos entre diferentes navegadores.
-* styles.css: Estilos personalizados para a aplicação.
+* styles.css: Estilos personalizados para a aplicação importados da pasta styles.
 * swiper-bundle.min.css: Estilos necessários para o carrossel de livros.
 * img/: Pasta contendo as imagens utilizadas no projeto.
-* scripts.js: Arquivo JavaScript com a inicialização do Swiper.js.
 
 # Instruções de Uso
 Para visualizar a aplicação, basta clicar no link:
 
 https://ovattsug.github.io/AluraBooks/
+
+# Considerações Finais
+O curso proporcionou uma boa introdução aos conceitos de responsividade e design para diferentes dispositivos, além de práticas importantes para a construção de layouts adaptativos.
 
