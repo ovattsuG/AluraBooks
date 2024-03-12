@@ -18,6 +18,14 @@ O AluraBooks é uma aplicação fictícia de uma livraria online, desenvolvida c
 * CSS
 * Swiper (para o carrossel)
 
+# Estrutura de Arquivos
+* index.html: Página principal da aplicação.
+* reset.css: Arquivo CSS de reset para normalizar estilos entre diferentes navegadores.
+* styles.css: Estilos personalizados para a aplicação.
+* swiper-bundle.min.css: Estilos necessários para o carrossel de livros.
+* img/: Pasta contendo as imagens utilizadas no projeto.
+* scripts.js: Arquivo JavaScript com a inicialização do Swiper.js.
+
 # Instruções de Uso
 Para visualizar a aplicação, basta clicar no link:
 
