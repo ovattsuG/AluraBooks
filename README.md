@@ -12,14 +12,12 @@ Projeto desenvolvido durante o curso de HTML e CSS da Alura, com foco em respons
 O AluraBooks é uma aplicação fictícia de uma livraria online, desenvolvida com o intuito de praticar os conceitos de design responsivo, utilizando HTML, CSS e algumas bibliotecas externas como o Swiper para a criação de carrosséis de imagens.
 
 # Tecnologias Utilizadas
-
--- HTML
--- CSS
--- Swiper (para o carrossel)
+* HTML
+* CSS
+* Swiper (para o carrossel)
 
 # Instruções de Uso
-Para visualizar a aplicação, basta clonar o repositório e abrir o arquivo index.html no seu navegador.
+Para visualizar a aplicação, basta clicar no link:
 
-bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+https://ovattsug.github.io/AluraBooks/
+
